@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+  }
+  body{
+    background: #f8f8f8;
+    width: 100%;
+  
+  }
+  p{
+    cursor: pointer;
+    letter-spacing: 1px;
+  }
+  .header{
+    margin-top: 15px;
+    height: 100vh;
+    width: 100%;
+    background-image: url(Image1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+  }
+.heading{
+    color: rgba(0, 0, 0, 0.727);
+    margin-top: 20px;
+    margin-left: 280px;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-weight: 100;
+    font-stretch: ultra-expanded;
+    font-size:medium
+    
+  }
+  .btn-1{
+    border-color: transparent;
+    background-color: transparent;
+    margin-left: 28px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    cursor: pointer;
+  }
+  .btn-1:hover{
+    background-color: rgba(0, 0, 0, 0.116);
+    transition: cubic-bezier(.5);
+  }
+  .All-btns{
+    margin-left: 250px;
+  }
+  .logo{
+    height: 115px;
+    margin-left: 84px;
+    margin-top: -73px;
+  }
+  
+  .model-3{
+    font-family: sans-serif;
+    color: black;
+    margin-left: 577px;
+    margin-top: -26px;
+}
+.price{
+    font-family: sans-serif;
+    color: black;
+    margin-left: 510px;
+    margin-top: 26px;
+    font-weight: lighter;
+    
+}
+.bt-2{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 400px;
+    background-color: rgba(0, 0, 0, 0.549);
+    color: rgba(255, 255, 255, 0.542);
+    border-radius: 6px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+.bt-3{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 350px;
+    background-color: rgba(255, 255, 255, 0.471);
+    color: rgba(0, 0, 0, 0.479);
+    border-radius: 6px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+    
+}
+.btn-2{
+    margin-left: -90px;
+}
+.Model-y{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+    border: none;
+    padding: 0;
+  }
+.Model-y-text{
+margin-left: 550px;
+position: relative;
+padding-top: 25px;
+}
+.Model-S{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image3.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+    border: none;
+    padding: 0;
+}
+.Model-X{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image4.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+    border: none;
+    padding: 0;
+}
+.SolarPanels{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image5.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+    border: none;
+    padding: 0;
+}
+.SolarRoof{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image6.webp);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+    border: none;
+    padding: 0;
+}
+.Accessories{
+    height: 100vh;
+    width: 100%;
+    background-image: url(image7.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    justify-content: center;
+    border: none;
+    padding: 0;
+}
+.bt-4{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 390px;
+    background-color: rgba(0, 0, 0, 0.876);
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    margin-left: 90px;
+    border: none;
+    cursor: pointer;
+    font-size: larger;
+}
+.Solar-roofs{
+    margin-left: 550px;
+position: relative;
+padding-top: 25px;
+}
+.tagline{
+    font-family: sans-serif;
+    color: black;
+    margin-left: 480px;
+    margin-top: 26px;
+    font-weight: lighter;
+
+}
+.bt-5{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 340px;
+    background-color: rgba(0, 0, 0, 0.793);
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+.bt-6{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 450px;
+    background-color: rgba(255, 255, 255, 0.765);
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    margin-left: 10px;
+    border: none;
+    cursor: pointer;
+}
+    
+.footer{
+    display: flex;
+    gap: 12px;
+    justify-content:center;
+     color: black;
+     padding-right: 400px;
+     padding-top: 100px;
+     float:left;
+     font-size: 12px;
+     padding-bottom: 50px;
+     margin-bottom: 80px;
+     
+}
+
+
+
+  
+  
+    
+    
